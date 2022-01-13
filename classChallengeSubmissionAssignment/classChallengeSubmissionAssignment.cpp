@@ -8,10 +8,10 @@ using namespace std;
 class Shape
 {
 public:
-	Shape(string color) {
-		m_color = color;
-	}
-	void getArea() {
+
+		string color;
+
+	virtual void getArea() {
 		cout << "This will get the shape area, eventually when I code" << endl;
 	}
 
@@ -23,19 +23,71 @@ public:
 class Rect : public Shape
 {
 public:
-	int m_height;
-	int m_width;
+	int height = 10;
+	int width = 5;
 
+	
+
+	void getArea() {
+		cout << "Area of the rectangle ";
+		cout << height * width;
+		
+	}
+};
+
+class Tri : public Shape
+{
 public:
-	Rect(string color, int height, int width) {
-		m_height = height;
-		m_width = width;
+	int height = 10;
+	int base = 5;
+
+
+
+	void getArea() {
+		cout << "\n Area of the Triangle ";
+		cout << height * base *.5 ;
+
+	}
+};
+
+class Cir : public Shape
+{
+public:
+	
+	int radius = 5;
+
+
+
+	void getArea() {
+		cout << "\n Area of the rectanglecircle ";
+		cout << radius * radius * 3.14;
+
 	}
 };
 
 int main()
 {
-	
+	Rect rect1;
+	Tri tri1;
+	Cir cir1;
+
+	rect1.color = "red";
+	tri1.color = "blue";
+	cir1.color = "purple";
+
+
+
+
+	rect1.getArea();
+
+	tri1.getArea();
+
+	cir1.getArea();
+
+	cout << "\n the rectangle's color is " + rect1.color;
+	cout << "\n triangle's color is " + tri1.color;
+	cout << "\n the circle's color is " + cir1.color;
+
 
 	
 }
