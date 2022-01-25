@@ -1677,3 +1677,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.25-22.34.17:813][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.01.25-22.34.17:818][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
 [2022.01.25-22.34.17:847][915]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.01.25-22.36.46:039][675]LogSavePackage: Moving '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/ThirdPersonCharacter3781E6D647266BA6A407039B0E151F00.tmp' to '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.01.25-22.36.46:073][675]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.01.25-22.36.46:074][675]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.01.25-22.36.48:013][765]LogSavePackage: Moving '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/WinScreen977065CF40CF252DD1CB4481E1472E86.tmp' to '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Content/Widgets/WinScreen.uasset'
+[2022.01.25-22.36.48:036][765]AssetCheck: New page: Asset Save: WinScreen
+[2022.01.25-22.36.48:037][765]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WinScreen.WinScreen
