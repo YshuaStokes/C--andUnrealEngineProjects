@@ -1535,3 +1535,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.25-19.16.26:154][580]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.25-19.16.26:154][580]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.01.25-19.16.26:154][580]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.25-19.26.26:211][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.01.25-19.26.26:214][634]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.063
+[2022.01.25-19.26.26:215][634]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.01.25-19.26.26:254][634]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.01.25-19.26.26:254][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.01.25-19.26.26:309][634]LogSavePackage: Moving '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/ThirdPersonCharacter_Auto35A623DE24E6D28A85AE37591ABE5AEA9.tmp' to '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2022.01.25-19.26.26:318][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/WinScreen] ([2] browsable assets)...
+[2022.01.25-19.26.26:318][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WinScreen]
+[2022.01.25-19.26.26:323][634]LogSavePackage: Moving '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/WinScreen_Auto376A7984B4A4DD3FD056AA09AEAF4B1BF.tmp' to '../../../../../../Users/Yshua/Documents/GitHub/C--andUnrealEngineProjects/GameSubmissionAssignment/OurFirstProject/Saved/Autosaves/Game/Widgets/WinScreen_Auto3.uasset'
+[2022.01.25-19.26.26:324][634]LogFileHelpers: Auto-saving content packages took 0.109
